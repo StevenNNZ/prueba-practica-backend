@@ -38,5 +38,5 @@ y [Maven 3.9.8 o superior](https://maven.apache.org/download.cgi)
 4. **Navegar al siguiente URL**:
 
    ```bash
-   http://localhost:9090
+   http://localhost:8090
    ```
