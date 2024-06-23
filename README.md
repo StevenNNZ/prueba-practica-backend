@@ -40,3 +40,9 @@ y [Maven 3.9.8 o superior](https://maven.apache.org/download.cgi)
    ```bash
    http://localhost:8090
    ```
+
+4. **Ejecución del JAR**:
+
+   ```bash
+   java -jar target/Servicio-Rest-0.0.1-SNAPSHOT.jar
+   ```
